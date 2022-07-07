@@ -1,0 +1,1110 @@
+analyzing combo 1. 0 and 1
+analyzing combo 2. 0 and 2
+success!
+analyzing combo 3. 0 and 3
+success!
+analyzing combo 4. 0 and 4
+analyzing combo 5. 0 and 5
+analyzing combo 6. 0 and 6
+analyzing combo 7. 0 and 7
+analyzing combo 8. 0 and 8
+analyzing combo 9. 0 and 9
+analyzing combo 10. 0 and 10
+analyzing combo 11. 0 and 11
+analyzing combo 12. 0 and 12
+analyzing combo 13. 0 and 13
+analyzing combo 14. 0 and 14
+analyzing combo 15. 0 and 15
+analyzing combo 16. 0 and 16
+analyzing combo 17. 0 and 17
+analyzing combo 18. 0 and 18
+analyzing combo 19. 0 and 19
+analyzing combo 20. 0 and 20
+analyzing combo 21. 0 and 21
+analyzing combo 22. 0 and 22
+success!
+analyzing combo 23. 0 and 23
+analyzing combo 24. 0 and 24
+analyzing combo 25. 0 and 25
+analyzing combo 26. 0 and 26
+analyzing combo 27. 0 and 27
+analyzing combo 28. 0 and 28
+analyzing combo 29. 0 and 29
+analyzing combo 30. 0 and 30
+analyzing combo 31. 0 and 31
+analyzing combo 32. 0 and 32
+success!
+analyzing combo 33. 0 and 33
+analyzing combo 34. 0 and 34
+analyzing combo 35. 0 and 35
+analyzing combo 36. 1 and 2
+analyzing combo 37. 1 and 3
+analyzing combo 38. 1 and 4
+analyzing combo 39. 1 and 5
+analyzing combo 40. 1 and 6
+analyzing combo 41. 1 and 7
+success!
+analyzing combo 42. 1 and 8
+analyzing combo 43. 1 and 9
+analyzing combo 44. 1 and 10
+analyzing combo 45. 1 and 11
+success!
+analyzing combo 46. 1 and 12
+analyzing combo 47. 1 and 13
+analyzing combo 48. 1 and 14
+analyzing combo 49. 1 and 15
+analyzing combo 50. 1 and 16
+analyzing combo 51. 1 and 17
+success!
+analyzing combo 52. 1 and 18
+analyzing combo 53. 1 and 19
+analyzing combo 54. 1 and 20
+analyzing combo 55. 1 and 21
+analyzing combo 56. 1 and 22
+analyzing combo 57. 1 and 23
+analyzing combo 58. 1 and 24
+analyzing combo 59. 1 and 25
+analyzing combo 60. 1 and 26
+analyzing combo 61. 1 and 27
+analyzing combo 62. 1 and 28
+analyzing combo 63. 1 and 29
+analyzing combo 64. 1 and 30
+analyzing combo 65. 1 and 31
+analyzing combo 66. 1 and 32
+analyzing combo 67. 1 and 33
+success!
+analyzing combo 68. 1 and 34
+success!
+analyzing combo 69. 1 and 35
+analyzing combo 70. 2 and 3
+analyzing combo 71. 2 and 4
+success!
+analyzing combo 72. 2 and 5
+analyzing combo 73. 2 and 6
+analyzing combo 74. 2 and 7
+analyzing combo 75. 2 and 8
+analyzing combo 76. 2 and 9
+analyzing combo 77. 2 and 10
+analyzing combo 78. 2 and 11
+analyzing combo 79. 2 and 12
+analyzing combo 80. 2 and 13
+success!
+analyzing combo 81. 2 and 14
+analyzing combo 82. 2 and 15
+analyzing combo 83. 2 and 16
+analyzing combo 84. 2 and 17
+analyzing combo 85. 2 and 18
+analyzing combo 86. 2 and 19
+analyzing combo 87. 2 and 20
+analyzing combo 88. 2 and 21
+analyzing combo 89. 2 and 22
+analyzing combo 90. 2 and 23
+analyzing combo 91. 2 and 24
+analyzing combo 92. 2 and 25
+analyzing combo 93. 2 and 26
+analyzing combo 94. 2 and 27
+analyzing combo 95. 2 and 28
+analyzing combo 96. 2 and 29
+analyzing combo 97. 2 and 30
+analyzing combo 98. 2 and 31
+analyzing combo 99. 2 and 32
+analyzing combo 100. 2 and 33
+analyzing combo 101. 2 and 34
+analyzing combo 102. 2 and 35
+analyzing combo 103. 3 and 4
+analyzing combo 104. 3 and 5
+analyzing combo 105. 3 and 6
+analyzing combo 106. 3 and 7
+analyzing combo 107. 3 and 8
+analyzing combo 108. 3 and 9
+analyzing combo 109. 3 and 10
+analyzing combo 110. 3 and 11
+analyzing combo 111. 3 and 12
+analyzing combo 112. 3 and 13
+analyzing combo 113. 3 and 14
+analyzing combo 114. 3 and 15
+analyzing combo 115. 3 and 16
+analyzing combo 116. 3 and 17
+analyzing combo 117. 3 and 18
+analyzing combo 118. 3 and 19
+analyzing combo 119. 3 and 20
+analyzing combo 120. 3 and 21
+analyzing combo 121. 3 and 22
+analyzing combo 122. 3 and 23
+analyzing combo 123. 3 and 24
+analyzing combo 124. 3 and 25
+analyzing combo 125. 3 and 26
+analyzing combo 126. 3 and 27
+analyzing combo 127. 3 and 28
+analyzing combo 128. 3 and 29
+analyzing combo 129. 3 and 30
+analyzing combo 130. 3 and 31
+analyzing combo 131. 3 and 32
+analyzing combo 132. 3 and 33
+analyzing combo 133. 3 and 34
+analyzing combo 134. 3 and 35
+analyzing combo 135. 4 and 5
+analyzing combo 136. 4 and 6
+analyzing combo 137. 4 and 7
+analyzing combo 138. 4 and 8
+analyzing combo 139. 4 and 9
+analyzing combo 140. 4 and 10
+analyzing combo 141. 4 and 11
+analyzing combo 142. 4 and 12
+analyzing combo 143. 4 and 13
+analyzing combo 144. 4 and 14
+analyzing combo 145. 4 and 15
+analyzing combo 146. 4 and 16
+analyzing combo 147. 4 and 17
+analyzing combo 148. 4 and 18
+analyzing combo 149. 4 and 19
+analyzing combo 150. 4 and 20
+analyzing combo 151. 4 and 21
+analyzing combo 152. 4 and 22
+analyzing combo 153. 4 and 23
+analyzing combo 154. 4 and 24
+analyzing combo 155. 4 and 25
+analyzing combo 156. 4 and 26
+analyzing combo 157. 4 and 27
+analyzing combo 158. 4 and 28
+analyzing combo 159. 4 and 29
+success!
+analyzing combo 160. 4 and 30
+analyzing combo 161. 4 and 31
+analyzing combo 162. 4 and 32
+analyzing combo 163. 4 and 33
+analyzing combo 164. 4 and 34
+analyzing combo 165. 4 and 35
+analyzing combo 166. 5 and 6
+analyzing combo 167. 5 and 7
+analyzing combo 168. 5 and 8
+analyzing combo 169. 5 and 9
+analyzing combo 170. 5 and 10
+analyzing combo 171. 5 and 11
+analyzing combo 172. 5 and 12
+analyzing combo 173. 5 and 13
+analyzing combo 174. 5 and 14
+analyzing combo 175. 5 and 15
+analyzing combo 176. 5 and 16
+analyzing combo 177. 5 and 17
+analyzing combo 178. 5 and 18
+analyzing combo 179. 5 and 19
+analyzing combo 180. 5 and 20
+analyzing combo 181. 5 and 21
+analyzing combo 182. 5 and 22
+analyzing combo 183. 5 and 23
+analyzing combo 184. 5 and 24
+analyzing combo 185. 5 and 25
+analyzing combo 186. 5 and 26
+success!
+analyzing combo 187. 5 and 27
+analyzing combo 188. 5 and 28
+analyzing combo 189. 5 and 29
+analyzing combo 190. 5 and 30
+analyzing combo 191. 5 and 31
+analyzing combo 192. 5 and 32
+analyzing combo 193. 5 and 33
+analyzing combo 194. 5 and 34
+analyzing combo 195. 5 and 35
+analyzing combo 196. 6 and 7
+analyzing combo 197. 6 and 8
+analyzing combo 198. 6 and 9
+analyzing combo 199. 6 and 10
+analyzing combo 200. 6 and 11
+analyzing combo 201. 6 and 12
+analyzing combo 202. 6 and 13
+analyzing combo 203. 6 and 14
+analyzing combo 204. 6 and 15
+analyzing combo 205. 6 and 16
+analyzing combo 206. 6 and 17
+analyzing combo 207. 6 and 18
+analyzing combo 208. 6 and 19
+success!
+analyzing combo 209. 6 and 20
+analyzing combo 210. 6 and 21
+analyzing combo 211. 6 and 22
+analyzing combo 212. 6 and 23
+analyzing combo 213. 6 and 24
+analyzing combo 214. 6 and 25
+analyzing combo 215. 6 and 26
+analyzing combo 216. 6 and 27
+analyzing combo 217. 6 and 28
+analyzing combo 218. 6 and 29
+analyzing combo 219. 6 and 30
+analyzing combo 220. 6 and 31
+analyzing combo 221. 6 and 32
+analyzing combo 222. 6 and 33
+analyzing combo 223. 6 and 34
+analyzing combo 224. 6 and 35
+analyzing combo 225. 7 and 8
+analyzing combo 226. 7 and 9
+analyzing combo 227. 7 and 10
+analyzing combo 228. 7 and 11
+analyzing combo 229. 7 and 12
+analyzing combo 230. 7 and 13
+analyzing combo 231. 7 and 14
+analyzing combo 232. 7 and 15
+analyzing combo 233. 7 and 16
+analyzing combo 234. 7 and 17
+analyzing combo 235. 7 and 18
+analyzing combo 236. 7 and 19
+success!
+analyzing combo 237. 7 and 20
+analyzing combo 238. 7 and 21
+analyzing combo 239. 7 and 22
+analyzing combo 240. 7 and 23
+analyzing combo 241. 7 and 24
+analyzing combo 242. 7 and 25
+analyzing combo 243. 7 and 26
+analyzing combo 244. 7 and 27
+analyzing combo 245. 7 and 28
+analyzing combo 246. 7 and 29
+analyzing combo 247. 7 and 30
+analyzing combo 248. 7 and 31
+analyzing combo 249. 7 and 32
+analyzing combo 250. 7 and 33
+analyzing combo 251. 7 and 34
+analyzing combo 252. 7 and 35
+analyzing combo 253. 8 and 9
+success!
+analyzing combo 254. 8 and 10
+analyzing combo 255. 8 and 11
+analyzing combo 256. 8 and 12
+analyzing combo 257. 8 and 13
+success!
+analyzing combo 258. 8 and 14
+analyzing combo 259. 8 and 15
+analyzing combo 260. 8 and 16
+analyzing combo 261. 8 and 17
+analyzing combo 262. 8 and 18
+success!
+analyzing combo 263. 8 and 19
+analyzing combo 264. 8 and 20
+analyzing combo 265. 8 and 21
+success!
+analyzing combo 266. 8 and 22
+analyzing combo 267. 8 and 23
+analyzing combo 268. 8 and 24
+analyzing combo 269. 8 and 25
+analyzing combo 270. 8 and 26
+analyzing combo 271. 8 and 27
+analyzing combo 272. 8 and 28
+analyzing combo 273. 8 and 29
+analyzing combo 274. 8 and 30
+analyzing combo 275. 8 and 31
+analyzing combo 276. 8 and 32
+analyzing combo 277. 8 and 33
+analyzing combo 278. 8 and 34
+analyzing combo 279. 8 and 35
+analyzing combo 280. 9 and 10
+analyzing combo 281. 9 and 11
+success!
+analyzing combo 282. 9 and 12
+analyzing combo 283. 9 and 13
+analyzing combo 284. 9 and 14
+analyzing combo 285. 9 and 15
+analyzing combo 286. 9 and 16
+analyzing combo 287. 9 and 17
+success!
+analyzing combo 288. 9 and 18
+analyzing combo 289. 9 and 19
+analyzing combo 290. 9 and 20
+analyzing combo 291. 9 and 21
+analyzing combo 292. 9 and 22
+analyzing combo 293. 9 and 23
+analyzing combo 294. 9 and 24
+analyzing combo 295. 9 and 25
+analyzing combo 296. 9 and 26
+analyzing combo 297. 9 and 27
+analyzing combo 298. 9 and 28
+analyzing combo 299. 9 and 29
+analyzing combo 300. 9 and 30
+success!
+analyzing combo 301. 9 and 31
+analyzing combo 302. 9 and 32
+analyzing combo 303. 9 and 33
+analyzing combo 304. 9 and 34
+analyzing combo 305. 9 and 35
+analyzing combo 306. 10 and 11
+analyzing combo 307. 10 and 12
+analyzing combo 308. 10 and 13
+analyzing combo 309. 10 and 14
+analyzing combo 310. 10 and 15
+analyzing combo 311. 10 and 16
+analyzing combo 312. 10 and 17
+analyzing combo 313. 10 and 18
+analyzing combo 314. 10 and 19
+success!
+analyzing combo 315. 10 and 20
+analyzing combo 316. 10 and 21
+analyzing combo 317. 10 and 22
+analyzing combo 318. 10 and 23
+analyzing combo 319. 10 and 24
+analyzing combo 320. 10 and 25
+analyzing combo 321. 10 and 26
+analyzing combo 322. 10 and 27
+analyzing combo 323. 10 and 28
+analyzing combo 324. 10 and 29
+analyzing combo 325. 10 and 30
+analyzing combo 326. 10 and 31
+analyzing combo 327. 10 and 32
+analyzing combo 328. 10 and 33
+analyzing combo 329. 10 and 34
+analyzing combo 330. 10 and 35
+analyzing combo 331. 11 and 12
+analyzing combo 332. 11 and 13
+analyzing combo 333. 11 and 14
+analyzing combo 334. 11 and 15
+analyzing combo 335. 11 and 16
+analyzing combo 336. 11 and 17
+analyzing combo 337. 11 and 18
+analyzing combo 338. 11 and 19
+analyzing combo 339. 11 and 20
+analyzing combo 340. 11 and 21
+analyzing combo 341. 11 and 22
+analyzing combo 342. 11 and 23
+analyzing combo 343. 11 and 24
+analyzing combo 344. 11 and 25
+analyzing combo 345. 11 and 26
+analyzing combo 346. 11 and 27
+analyzing combo 347. 11 and 28
+analyzing combo 348. 11 and 29
+analyzing combo 349. 11 and 30
+analyzing combo 350. 11 and 31
+analyzing combo 351. 11 and 32
+analyzing combo 352. 11 and 33
+analyzing combo 353. 11 and 34
+analyzing combo 354. 11 and 35
+analyzing combo 355. 12 and 13
+analyzing combo 356. 12 and 14
+analyzing combo 357. 12 and 15
+success!
+analyzing combo 358. 12 and 16
+analyzing combo 359. 12 and 17
+analyzing combo 360. 12 and 18
+analyzing combo 361. 12 and 19
+analyzing combo 362. 12 and 20
+analyzing combo 363. 12 and 21
+analyzing combo 364. 12 and 22
+analyzing combo 365. 12 and 23
+analyzing combo 366. 12 and 24
+analyzing combo 367. 12 and 25
+success!
+analyzing combo 368. 12 and 26
+analyzing combo 369. 12 and 27
+analyzing combo 370. 12 and 28
+analyzing combo 371. 12 and 29
+analyzing combo 372. 12 and 30
+analyzing combo 373. 12 and 31
+analyzing combo 374. 12 and 32
+analyzing combo 375. 12 and 33
+analyzing combo 376. 12 and 34
+analyzing combo 377. 12 and 35
+analyzing combo 378. 13 and 14
+analyzing combo 379. 13 and 15
+analyzing combo 380. 13 and 16
+success!
+analyzing combo 381. 13 and 17
+analyzing combo 382. 13 and 18
+analyzing combo 383. 13 and 19
+analyzing combo 384. 13 and 20
+analyzing combo 385. 13 and 21
+analyzing combo 386. 13 and 22
+analyzing combo 387. 13 and 23
+analyzing combo 388. 13 and 24
+analyzing combo 389. 13 and 25
+analyzing combo 390. 13 and 26
+analyzing combo 391. 13 and 27
+analyzing combo 392. 13 and 28
+analyzing combo 393. 13 and 29
+success!
+analyzing combo 394. 13 and 30
+success!
+analyzing combo 395. 13 and 31
+analyzing combo 396. 13 and 32
+analyzing combo 397. 13 and 33
+analyzing combo 398. 13 and 34
+analyzing combo 399. 13 and 35
+analyzing combo 400. 14 and 15
+analyzing combo 401. 14 and 16
+analyzing combo 402. 14 and 17
+analyzing combo 403. 14 and 18
+analyzing combo 404. 14 and 19
+analyzing combo 405. 14 and 20
+analyzing combo 406. 14 and 21
+analyzing combo 407. 14 and 22
+analyzing combo 408. 14 and 23
+analyzing combo 409. 14 and 24
+analyzing combo 410. 14 and 25
+analyzing combo 411. 14 and 26
+success!
+analyzing combo 412. 14 and 27
+analyzing combo 413. 14 and 28
+analyzing combo 414. 14 and 29
+analyzing combo 415. 14 and 30
+analyzing combo 416. 14 and 31
+analyzing combo 417. 14 and 32
+analyzing combo 418. 14 and 33
+analyzing combo 419. 14 and 34
+analyzing combo 420. 14 and 35
+analyzing combo 421. 15 and 16
+analyzing combo 422. 15 and 17
+analyzing combo 423. 15 and 18
+analyzing combo 424. 15 and 19
+analyzing combo 425. 15 and 20
+success!
+analyzing combo 426. 15 and 21
+analyzing combo 427. 15 and 22
+analyzing combo 428. 15 and 23
+success!
+analyzing combo 429. 15 and 24
+analyzing combo 430. 15 and 25
+analyzing combo 431. 15 and 26
+analyzing combo 432. 15 and 27
+analyzing combo 433. 15 and 28
+analyzing combo 434. 15 and 29
+analyzing combo 435. 15 and 30
+analyzing combo 436. 15 and 31
+success!
+analyzing combo 437. 15 and 32
+analyzing combo 438. 15 and 33
+analyzing combo 439. 15 and 34
+analyzing combo 440. 15 and 35
+analyzing combo 441. 16 and 17
+analyzing combo 442. 16 and 18
+analyzing combo 443. 16 and 19
+analyzing combo 444. 16 and 20
+analyzing combo 445. 16 and 21
+analyzing combo 446. 16 and 22
+analyzing combo 447. 16 and 23
+analyzing combo 448. 16 and 24
+analyzing combo 449. 16 and 25
+analyzing combo 450. 16 and 26
+analyzing combo 451. 16 and 27
+analyzing combo 452. 16 and 28
+analyzing combo 453. 16 and 29
+analyzing combo 454. 16 and 30
+analyzing combo 455. 16 and 31
+analyzing combo 456. 16 and 32
+analyzing combo 457. 16 and 33
+analyzing combo 458. 16 and 34
+analyzing combo 459. 16 and 35
+analyzing combo 460. 17 and 18
+analyzing combo 461. 17 and 19
+analyzing combo 462. 17 and 20
+analyzing combo 463. 17 and 21
+analyzing combo 464. 17 and 22
+analyzing combo 465. 17 and 23
+analyzing combo 466. 17 and 24
+success!
+analyzing combo 467. 17 and 25
+analyzing combo 468. 17 and 26
+analyzing combo 469. 17 and 27
+analyzing combo 470. 17 and 28
+analyzing combo 471. 17 and 29
+analyzing combo 472. 17 and 30
+analyzing combo 473. 17 and 31
+analyzing combo 474. 17 and 32
+analyzing combo 475. 17 and 33
+analyzing combo 476. 17 and 34
+analyzing combo 477. 17 and 35
+analyzing combo 478. 18 and 19
+analyzing combo 479. 18 and 20
+analyzing combo 480. 18 and 21
+analyzing combo 481. 18 and 22
+analyzing combo 482. 18 and 23
+analyzing combo 483. 18 and 24
+analyzing combo 484. 18 and 25
+analyzing combo 485. 18 and 26
+analyzing combo 486. 18 and 27
+analyzing combo 487. 18 and 28
+analyzing combo 488. 18 and 29
+analyzing combo 489. 18 and 30
+analyzing combo 490. 18 and 31
+analyzing combo 491. 18 and 32
+analyzing combo 492. 18 and 33
+analyzing combo 493. 18 and 34
+analyzing combo 494. 18 and 35
+success!
+analyzing combo 495. 19 and 20
+analyzing combo 496. 19 and 21
+analyzing combo 497. 19 and 22
+analyzing combo 498. 19 and 23
+analyzing combo 499. 19 and 24
+analyzing combo 500. 19 and 25
+analyzing combo 501. 19 and 26
+analyzing combo 502. 19 and 27
+analyzing combo 503. 19 and 28
+analyzing combo 504. 19 and 29
+analyzing combo 505. 19 and 30
+analyzing combo 506. 19 and 31
+analyzing combo 507. 19 and 32
+analyzing combo 508. 19 and 33
+success!
+analyzing combo 509. 19 and 34
+analyzing combo 510. 19 and 35
+analyzing combo 511. 20 and 21
+analyzing combo 512. 20 and 22
+analyzing combo 513. 20 and 23
+analyzing combo 514. 20 and 24
+analyzing combo 515. 20 and 25
+analyzing combo 516. 20 and 26
+success!
+analyzing combo 517. 20 and 27
+analyzing combo 518. 20 and 28
+analyzing combo 519. 20 and 29
+analyzing combo 520. 20 and 30
+analyzing combo 521. 20 and 31
+analyzing combo 522. 20 and 32
+analyzing combo 523. 20 and 33
+analyzing combo 524. 20 and 34
+analyzing combo 525. 20 and 35
+analyzing combo 526. 21 and 22
+analyzing combo 527. 21 and 23
+analyzing combo 528. 21 and 24
+analyzing combo 529. 21 and 25
+analyzing combo 530. 21 and 26
+analyzing combo 531. 21 and 27
+analyzing combo 532. 21 and 28
+analyzing combo 533. 21 and 29
+success!
+analyzing combo 534. 21 and 30
+analyzing combo 535. 21 and 31
+analyzing combo 536. 21 and 32
+analyzing combo 537. 21 and 33
+analyzing combo 538. 21 and 34
+analyzing combo 539. 21 and 35
+success!
+analyzing combo 540. 22 and 23
+analyzing combo 541. 22 and 24
+analyzing combo 542. 22 and 25
+analyzing combo 543. 22 and 26
+analyzing combo 544. 22 and 27
+analyzing combo 545. 22 and 28
+success!
+analyzing combo 546. 22 and 29
+analyzing combo 547. 22 and 30
+analyzing combo 548. 22 and 31
+success!
+analyzing combo 549. 22 and 32
+analyzing combo 550. 22 and 33
+analyzing combo 551. 22 and 34
+analyzing combo 552. 22 and 35
+analyzing combo 553. 23 and 24
+analyzing combo 554. 23 and 25
+analyzing combo 555. 23 and 26
+success!
+analyzing combo 556. 23 and 27
+analyzing combo 557. 23 and 28
+analyzing combo 558. 23 and 29
+analyzing combo 559. 23 and 30
+analyzing combo 560. 23 and 31
+analyzing combo 561. 23 and 32
+analyzing combo 562. 23 and 33
+analyzing combo 563. 23 and 34
+analyzing combo 564. 23 and 35
+analyzing combo 565. 24 and 25
+analyzing combo 566. 24 and 26
+analyzing combo 567. 24 and 27
+analyzing combo 568. 24 and 28
+analyzing combo 569. 24 and 29
+analyzing combo 570. 24 and 30
+success!
+analyzing combo 571. 24 and 31
+analyzing combo 572. 24 and 32
+analyzing combo 573. 24 and 33
+success!
+analyzing combo 574. 24 and 34
+analyzing combo 575. 24 and 35
+analyzing combo 576. 25 and 26
+analyzing combo 577. 25 and 27
+analyzing combo 578. 25 and 28
+success!
+analyzing combo 579. 25 and 29
+analyzing combo 580. 25 and 30
+analyzing combo 581. 25 and 31
+success!
+analyzing combo 582. 25 and 32
+analyzing combo 583. 25 and 33
+analyzing combo 584. 25 and 34
+analyzing combo 585. 25 and 35
+analyzing combo 586. 26 and 27
+analyzing combo 587. 26 and 28
+analyzing combo 588. 26 and 29
+analyzing combo 589. 26 and 30
+analyzing combo 590. 26 and 31
+analyzing combo 591. 26 and 32
+analyzing combo 592. 26 and 33
+analyzing combo 593. 26 and 34
+analyzing combo 594. 26 and 35
+analyzing combo 595. 27 and 28
+success!
+analyzing combo 596. 27 and 29
+analyzing combo 597. 27 and 30
+analyzing combo 598. 27 and 31
+analyzing combo 599. 27 and 32
+analyzing combo 600. 27 and 33
+analyzing combo 601. 27 and 34
+analyzing combo 602. 27 and 35
+analyzing combo 603. 28 and 29
+analyzing combo 604. 28 and 30
+analyzing combo 605. 28 and 31
+analyzing combo 606. 28 and 32
+success!
+analyzing combo 607. 28 and 33
+analyzing combo 608. 28 and 34
+analyzing combo 609. 28 and 35
+analyzing combo 610. 29 and 30
+analyzing combo 611. 29 and 31
+analyzing combo 612. 29 and 32
+analyzing combo 613. 29 and 33
+analyzing combo 614. 29 and 34
+analyzing combo 615. 29 and 35
+analyzing combo 616. 30 and 31
+analyzing combo 617. 30 and 32
+analyzing combo 618. 30 and 33
+analyzing combo 619. 30 and 34
+analyzing combo 620. 30 and 35
+analyzing combo 621. 31 and 32
+analyzing combo 622. 31 and 33
+success!
+analyzing combo 623. 31 and 34
+analyzing combo 624. 31 and 35
+analyzing combo 625. 32 and 33
+analyzing combo 626. 32 and 34
+analyzing combo 627. 32 and 35
+analyzing combo 628. 33 and 34
+analyzing combo 629. 33 and 35
+analyzing combo 630. 34 and 35
+Scanner 0 is linked to scanner 2
+[  -62.   -83. -1085.] [[ 1. -0. -0.]
+ [ 0.  0. -1.]
+ [ 0.  1.  0.]]
+Scanner 0 is linked to scanner 3
+[  -85. -1284.     8.] [[-0.  0.  1.]
+ [ 0. -1.  0.]
+ [ 1. -0. -0.]]
+Scanner 0 is linked to scanner 22
+[1120.  -73.   57.] [[-1.  0.  0.]
+ [-0.  0. -1.]
+ [ 0. -1. -0.]]
+Scanner 0 is linked to scanner 32
+[ -68.  -72. 1227.] [[ 0. -1. -0.]
+ [ 1. -0.  0.]
+ [ 0.  0.  1.]]
+Scanner 1 is linked to scanner 7
+[1163. -108.  -65.] [[-1.  0.  0.]
+ [ 0.  0.  1.]
+ [ 0.  1.  0.]]
+Scanner 1 is linked to scanner 11
+[   9.  -12. 1224.] [[-1.  0.  0.]
+ [ 0. -1. -0.]
+ [ 0.  0.  1.]]
+Scanner 1 is linked to scanner 17
+[-1283.     2.    95.] [[-1.  0.  0.]
+ [ 0.  0. -1.]
+ [-0. -1.  0.]]
+Scanner 1 is linked to scanner 33
+[-139. 1088.  -33.] [[ 0. -0. -1.]
+ [ 0.  1.  0.]
+ [ 1. -0. -0.]]
+Scanner 1 is linked to scanner 34
+[ -141. -1191.   -33.] [[ 1.  0. -0.]
+ [ 0.  0. -1.]
+ [ 0.  1.  0.]]
+Scanner 2 is linked to scanner 0
+[  62. 1085.  -83.] [[ 1.  0.  0.]
+ [-0.  0.  1.]
+ [-0. -1.  0.]]
+Scanner 2 is linked to scanner 4
+[-1221.   -42.    57.] [[ 0. -0. -1.]
+ [-1. -0.  0.]
+ [ 0.  1.  0.]]
+Scanner 2 is linked to scanner 13
+[  73.   39. 1224.] [[-0.  1. -0.]
+ [ 1. -0. -0.]
+ [ 0.  0. -1.]]
+Scanner 3 is linked to scanner 0
+[   -8. -1284.    85.] [[-0.  0.  1.]
+ [ 0. -1. -0.]
+ [ 1.  0. -0.]]
+Scanner 4 is linked to scanner 2
+[  -42.   -57. -1221.] [[ 0. -1.  0.]
+ [-0. -0.  1.]
+ [-1.  0.  0.]]
+Scanner 4 is linked to scanner 29
+[-1292.    16.   144.] [[ 0. -1.  0.]
+ [ 1.  0.  0.]
+ [ 0.  0.  1.]]
+Scanner 5 is linked to scanner 26
+[-117.  128. 1166.] [[ 0.  0.  1.]
+ [ 1. -0.  0.]
+ [ 0.  1.  0.]]
+Scanner 6 is linked to scanner 19
+[   9. 1101.  -35.] [[ 1. -0.  0.]
+ [-0.  0.  1.]
+ [-0. -1. -0.]]
+Scanner 7 is linked to scanner 1
+[1163.   65.  108.] [[-1.  0.  0.]
+ [ 0.  0.  1.]
+ [ 0.  1.  0.]]
+Scanner 7 is linked to scanner 19
+[ -26.  102. 1152.] [[ 0.  0.  1.]
+ [-0.  1. -0.]
+ [-1. -0. -0.]]
+Scanner 8 is linked to scanner 9
+[ -99. -119. 1237.] [[ 0.  0. -1.]
+ [-1. -0.  0.]
+ [ 0.  1. -0.]]
+Scanner 8 is linked to scanner 13
+[ -83. 1151.  151.] [[ 0. -1. -0.]
+ [-0. -0.  1.]
+ [-1.  0.  0.]]
+Scanner 8 is linked to scanner 18
+[ -108. -1330.   132.] [[ 0.  0. -1.]
+ [ 1.  0. -0.]
+ [ 0. -1.  0.]]
+Scanner 8 is linked to scanner 21
+[  -44.   -87. -1145.] [[-0. -1. -0.]
+ [ 1.  0.  0.]
+ [ 0.  0.  1.]]
+Scanner 9 is linked to scanner 8
+[ -119. -1237.   -99.] [[ 0. -1.  0.]
+ [ 0. -0.  1.]
+ [-1.  0. -0.]]
+Scanner 9 is linked to scanner 11
+[ -19. 1179.  137.] [[ 0. -1. -0.]
+ [ 0. -0. -1.]
+ [ 1. -0.  0.]]
+Scanner 9 is linked to scanner 17
+[-1148.  -113.   151.] [[-0. -1.  0.]
+ [-1.  0. -0.]
+ [-0. -0. -1.]]
+Scanner 9 is linked to scanner 30
+[ -66.   12. 1310.] [[ 0.  1.  0.]
+ [-0. -0.  1.]
+ [ 1.  0.  0.]]
+Scanner 10 is linked to scanner 19
+[  89.  154. 1171.] [[ 0. -1. -0.]
+ [ 0.  0. -1.]
+ [ 1. -0.  0.]]
+Scanner 11 is linked to scanner 1
+[    9.   -12. -1224.] [[-1.  0.  0.]
+ [ 0. -1.  0.]
+ [ 0. -0.  1.]]
+Scanner 11 is linked to scanner 9
+[-137.  -19. 1179.] [[ 0.  0.  1.]
+ [-1. -0. -0.]
+ [-0. -1.  0.]]
+Scanner 12 is linked to scanner 15
+[ -66.   57. 1234.] [[-0.  0.  1.]
+ [-1. -0. -0.]
+ [ 0. -1.  0.]]
+Scanner 12 is linked to scanner 25
+[-1162.    39.   101.] [[-1.  0.  0.]
+ [ 0.  1.  0.]
+ [-0.  0. -1.]]
+Scanner 13 is linked to scanner 2
+[ -39.  -73. 1224.] [[-0.  1.  0.]
+ [ 1. -0.  0.]
+ [-0. -0. -1.]]
+Scanner 13 is linked to scanner 8
+[  151.   -83. -1151.] [[ 0. -0. -1.]
+ [-1. -0.  0.]
+ [-0.  1.  0.]]
+Scanner 13 is linked to scanner 16
+[  -23.     2. -1200.] [[-0.  1.  0.]
+ [-1. -0. -0.]
+ [ 0.  0.  1.]]
+Scanner 13 is linked to scanner 29
+[   63. -1310.  -125.] [[ 0.  1.  0.]
+ [-0.  0.  1.]
+ [ 1.  0. -0.]]
+Scanner 13 is linked to scanner 30
+[ -40. 1152.   28.] [[-0. -0.  1.]
+ [-1.  0.  0.]
+ [-0. -1. -0.]]
+Scanner 14 is linked to scanner 26
+[ -52.   55. 1043.] [[-0. -1.  0.]
+ [-1. -0.  0.]
+ [ 0.  0. -1.]]
+Scanner 15 is linked to scanner 12
+[  57. 1234.   66.] [[-0. -1.  0.]
+ [ 0. -0. -1.]
+ [ 1. -0.  0.]]
+Scanner 15 is linked to scanner 20
+[  -15.    11. -1146.] [[-0.  1.  0.]
+ [-1. -0. -0.]
+ [ 0.  0.  1.]]
+Scanner 15 is linked to scanner 23
+[   11. -1191.    61.] [[-0.  0. -1.]
+ [-0. -1.  0.]
+ [-1. -0. -0.]]
+Scanner 15 is linked to scanner 31
+[ -26. 1085.    0.] [[ 0.  1.  0.]
+ [ 0. -0.  1.]
+ [ 1.  0. -0.]]
+Scanner 16 is linked to scanner 13
+[   2.   23. 1200.] [[-0. -1.  0.]
+ [ 1. -0.  0.]
+ [ 0. -0.  1.]]
+Scanner 17 is linked to scanner 1
+[-1283.    95.     2.] [[-1.  0. -0.]
+ [ 0.  0. -1.]
+ [ 0. -1.  0.]]
+Scanner 17 is linked to scanner 9
+[ -113. -1148.   151.] [[-0. -1. -0.]
+ [-1.  0. -0.]
+ [ 0. -0. -1.]]
+Scanner 17 is linked to scanner 24
+[  -13.    32. -1056.] [[ 0.  1.  0.]
+ [ 0.  0.  1.]
+ [ 1.  0. -0.]]
+Scanner 18 is linked to scanner 8
+[1330.  132. -108.] [[ 0.  1.  0.]
+ [ 0.  0. -1.]
+ [-1. -0.  0.]]
+Scanner 18 is linked to scanner 35
+[1190.  172.  -11.] [[-1.  0.  0.]
+ [-0.  0.  1.]
+ [ 0.  1. -0.]]
+Scanner 19 is linked to scanner 6
+[   -9.   -35. -1101.] [[ 1. -0. -0.]
+ [-0.  0. -1.]
+ [ 0.  1. -0.]]
+Scanner 19 is linked to scanner 7
+[1152. -102.   26.] [[ 0. -0. -1.]
+ [ 0.  1. -0.]
+ [ 1. -0. -0.]]
+Scanner 19 is linked to scanner 10
+[-1171.    89.   154.] [[ 0.  0.  1.]
+ [-1.  0. -0.]
+ [-0. -1.  0.]]
+Scanner 19 is linked to scanner 33
+[   44.   -70. -1328.] [[ 0. -1.  0.]
+ [ 1. -0. -0.]
+ [ 0.  0.  1.]]
+Scanner 20 is linked to scanner 15
+[  11.   15. 1146.] [[-0. -1.  0.]
+ [ 1. -0.  0.]
+ [ 0. -0.  1.]]
+Scanner 20 is linked to scanner 26
+[-1390.   -23.   -93.] [[ 0.  0.  1.]
+ [-0.  1. -0.]
+ [-1.  0.  0.]]
+Scanner 21 is linked to scanner 8
+[  87.  -44. 1145.] [[-0.  1.  0.]
+ [-1.  0.  0.]
+ [-0.  0.  1.]]
+Scanner 21 is linked to scanner 29
+[-1175.    86.   -14.] [[-0. -0.  1.]
+ [ 0. -1.  0.]
+ [ 1.  0.  0.]]
+Scanner 21 is linked to scanner 35
+[1232.  108.   87.] [[-0.  0.  1.]
+ [ 1.  0.  0.]
+ [ 0.  1. -0.]]
+Scanner 22 is linked to scanner 0
+[1120.   57.  -73.] [[-1. -0.  0.]
+ [ 0.  0. -1.]
+ [ 0. -1. -0.]]
+Scanner 22 is linked to scanner 28
+[  -44. -1241.     2.] [[-1.  0. -0.]
+ [-0.  0. -1.]
+ [ 0. -1.  0.]]
+Scanner 22 is linked to scanner 31
+[-1243.   -38.   -87.] [[ 1.  0. -0.]
+ [ 0. -0. -1.]
+ [-0.  1.  0.]]
+Scanner 23 is linked to scanner 15
+[   61. -1191.    11.] [[-0. -0. -1.]
+ [ 0. -1. -0.]
+ [-1.  0. -0.]]
+Scanner 23 is linked to scanner 26
+[1300.  188.    3.] [[-1.  0.  0.]
+ [ 0.  0.  1.]
+ [-0.  1.  0.]]
+Scanner 24 is linked to scanner 17
+[1056.   13.  -32.] [[ 0.  0.  1.]
+ [ 1.  0.  0.]
+ [ 0.  1. -0.]]
+Scanner 24 is linked to scanner 30
+[-1114.  -103.  -112.] [[ 0. -0. -1.]
+ [ 0. -1.  0.]
+ [-1.  0.  0.]]
+Scanner 24 is linked to scanner 33
+[   96.   -30. -1131.] [[ 1.  0.  0.]
+ [-0. -1. -0.]
+ [ 0.  0. -1.]]
+Scanner 25 is linked to scanner 12
+[-1162.   -39.   101.] [[-1.  0. -0.]
+ [ 0.  1.  0.]
+ [ 0.  0. -1.]]
+Scanner 25 is linked to scanner 28
+[1188.  107.   96.] [[-1.  0.  0.]
+ [ 0. -1. -0.]
+ [ 0.  0.  1.]]
+Scanner 25 is linked to scanner 31
+[  -11.    18. -1107.] [[ 1. -0. -0.]
+ [ 0. -1. -0.]
+ [ 0.  0. -1.]]
+Scanner 26 is linked to scanner 5
+[ -128. -1166.   117.] [[ 0.  1.  0.]
+ [ 0. -0.  1.]
+ [ 1.  0.  0.]]
+Scanner 26 is linked to scanner 14
+[  55.  -52. 1043.] [[-0. -1.  0.]
+ [-1. -0.  0.]
+ [ 0.  0. -1.]]
+Scanner 26 is linked to scanner 20
+[ -93.   23. 1390.] [[ 0. -0. -1.]
+ [ 0.  1.  0.]
+ [ 1. -0.  0.]]
+Scanner 26 is linked to scanner 23
+[1300.   -3. -188.] [[-1.  0. -0.]
+ [ 0.  0.  1.]
+ [ 0.  1.  0.]]
+Scanner 27 is linked to scanner 28
+[-1242.  -118.   -99.] [[ 0.  0. -1.]
+ [-0.  1.  0.]
+ [ 1. -0. -0.]]
+Scanner 28 is linked to scanner 22
+[  -44.     2. -1241.] [[-1. -0.  0.]
+ [ 0.  0. -1.]
+ [-0. -1.  0.]]
+Scanner 28 is linked to scanner 25
+[1188.  107.  -96.] [[-1.  0.  0.]
+ [ 0. -1.  0.]
+ [ 0. -0.  1.]]
+Scanner 28 is linked to scanner 27
+[   99.   118. -1242.] [[ 0. -0.  1.]
+ [ 0.  1. -0.]
+ [-1.  0. -0.]]
+Scanner 28 is linked to scanner 32
+[-1232.     3.   -71.] [[ 0. -1.  0.]
+ [ 1.  0.  0.]
+ [ 0. -0.  1.]]
+Scanner 29 is linked to scanner 4
+[  -16. -1292.  -144.] [[ 0.  1.  0.]
+ [-1.  0.  0.]
+ [ 0.  0.  1.]]
+Scanner 29 is linked to scanner 13
+[ 125.  -63. 1310.] [[ 0. -0.  1.]
+ [ 1.  0.  0.]
+ [ 0.  1. -0.]]
+Scanner 29 is linked to scanner 21
+[  14.   86. 1175.] [[-0.  0.  1.]
+ [-0. -1.  0.]
+ [ 1.  0.  0.]]
+Scanner 30 is linked to scanner 9
+[-1310.    66.   -12.] [[ 0. -0.  1.]
+ [ 1. -0.  0.]
+ [ 0.  1.  0.]]
+Scanner 30 is linked to scanner 13
+[1152.   28.   40.] [[-0. -1. -0.]
+ [-0.  0. -1.]
+ [ 1.  0. -0.]]
+Scanner 30 is linked to scanner 24
+[ -112.  -103. -1114.] [[ 0.  0. -1.]
+ [-0. -1.  0.]
+ [-1.  0.  0.]]
+Scanner 31 is linked to scanner 15
+[   -0.    26. -1085.] [[ 0.  0.  1.]
+ [ 1. -0.  0.]
+ [ 0.  1. -0.]]
+Scanner 31 is linked to scanner 22
+[1243.   87.  -38.] [[ 1.  0. -0.]
+ [ 0. -0.  1.]
+ [-0. -1.  0.]]
+Scanner 31 is linked to scanner 25
+[   11.    18. -1107.] [[ 1.  0.  0.]
+ [-0. -1.  0.]
+ [-0. -0. -1.]]
+Scanner 31 is linked to scanner 33
+[ -10.   80. 1252.] [[-1. -0. -0.]
+ [ 0.  0. -1.]
+ [ 0. -1.  0.]]
+Scanner 32 is linked to scanner 0
+[   72.   -68. -1227.] [[ 0.  1.  0.]
+ [-1. -0.  0.]
+ [-0.  0.  1.]]
+Scanner 32 is linked to scanner 28
+[   -3. -1232.    71.] [[ 0.  1.  0.]
+ [-1.  0. -0.]
+ [ 0.  0.  1.]]
+Scanner 33 is linked to scanner 1
+[   33. -1088.  -139.] [[ 0.  0.  1.]
+ [-0.  1. -0.]
+ [-1.  0. -0.]]
+Scanner 33 is linked to scanner 19
+[  70.   44. 1328.] [[ 0.  1.  0.]
+ [-1. -0.  0.]
+ [ 0. -0.  1.]]
+Scanner 33 is linked to scanner 24
+[  -96.   -30. -1131.] [[ 1. -0.  0.]
+ [ 0. -1.  0.]
+ [ 0. -0. -1.]]
+Scanner 33 is linked to scanner 31
+[ -10. 1252.   80.] [[-1.  0.  0.]
+ [-0.  0. -1.]
+ [-0. -1.  0.]]
+Scanner 34 is linked to scanner 1
+[  141.    33. -1191.] [[ 1.  0.  0.]
+ [ 0.  0.  1.]
+ [-0. -1.  0.]]
+Scanner 35 is linked to scanner 18
+[1190.   11. -172.] [[-1. -0.  0.]
+ [ 0.  0.  1.]
+ [ 0.  1. -0.]]
+Scanner 35 is linked to scanner 21
+[ -108.   -87. -1232.] [[-0.  1.  0.]
+ [ 0.  0.  1.]
+ [ 1.  0. -0.]]
+Entered scanner 0
+Entered scanner 2
+Entered scanner 4
+Entered scanner 29
+Entered scanner 13
+Entered scanner 8
+Entered scanner 9
+Entered scanner 11
+Entered scanner 1
+Entered scanner 7
+Entered scanner 19
+Entered scanner 6
+Solving in on scanner 6
+[ 368  683 -372]
+applying [   9.   35. 1101.] and [[ 1. -0.  0.]
+ [-0.  0.  1.]
+ [-0. -1. -0.]]
+applying [   26.  -102. -1152.] and [[ 0. -0. -1.]
+ [ 0.  1. -0.]
+ [ 1. -0. -0.]]
+applying [-1163.   108.    65.] and [[-1.  0.  0.]
+ [ 0.  0.  1.]
+ [ 0.  1.  0.]]
+applying [  -9.   12. 1224.] and [[-1.  0.  0.]
+ [ 0. -1. -0.]
+ [ 0.  0.  1.]]
+applying [   19. -1179.  -137.] and [[ 0.  0.  1.]
+ [-1. -0. -0.]
+ [-0. -1.  0.]]
+applying [   99.   119. -1237.] and [[ 0. -1.  0.]
+ [ 0. -0.  1.]
+ [-1.  0. -0.]]
+applying [-151.   83. 1151.] and [[ 0. -1. -0.]
+ [-0. -0.  1.]
+ [-1.  0.  0.]]
+applying [ -125.    63. -1310.] and [[ 0.  1.  0.]
+ [-0.  0.  1.]
+ [ 1.  0. -0.]]
+applying [1292.  -16. -144.] and [[ 0.  1.  0.]
+ [-1.  0.  0.]
+ [ 0.  0.  1.]]
+applying [1221.   42.  -57.] and [[ 0. -1.  0.]
+ [-0. -0.  1.]
+ [-1.  0.  0.]]
+applying [  62.   83. 1085.] and [[ 1.  0.  0.]
+ [-0.  0.  1.]
+ [-0. -1.  0.]]
+[ 368  683 -372] --> [-849. -440. 1951.]

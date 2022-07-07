@@ -1,0 +1,816 @@
+Packet no. 1 Version 7 Type 0
+ID Chain [[1, 53]]
+Packet no. 2 Version 0 Type 1
+ID Chain [[1, 52], [1, 2]]
+Packet no. 3 Version 5 Type 4 Value 1161
+ID Chain [[1, 52], [1, 1]]
+Packet no. 4 Version 3 Type 6
+ID Chain [[1, 52], [1, 0], [1, 2]]
+packet string 1010000000000000100001 gives size 33
+ID Chain [[1, 52], [1, 0], [1, 1], [0, 33]]
+Packet no. 6 Version 7 Type 4 Value 2
+ID Chain [[1, 52], [1, 0], [1, 1], [0, 22]]
+Packet no. 7 Version 6 Type 4 Value 4
+ID Chain [[1, 52], [1, 0], [1, 1], [0, 11]]
+Packet no. 8 Version 7 Type 4 Value 13
+ID Chain [[1, 52], [1, 0], [1, 1], [0, 0]]
+Packet no. 9 Version 3 Type 0
+ID Chain [[1, 52], [1, 0], [1, 0], [1, 3]]
+Packet no. 10 Version 2 Type 4 Value 6
+ID Chain [[1, 52], [1, 0], [1, 0], [1, 2]]
+Packet no. 11 Version 5 Type 4 Value 6
+ID Chain [[1, 52], [1, 0], [1, 0], [1, 1]]
+Packet no. 12 Version 4 Type 4 Value 3
+ID Chain [[1, 52], [1, 0], [1, 0], [1, 0]]
+Packet no. 13 Version 5 Type 1
+ID Chain [[1, 51], [1, 2]]
+Packet no. 14 Version 3 Type 4 Value 5250146
+ID Chain [[1, 51], [1, 1]]
+Packet no. 15 Version 7 Type 6
+ID Chain [[1, 51], [1, 0], [1, 2]]
+Packet no. 16 Version 5 Type 4 Value 246310804
+ID Chain [[1, 51], [1, 0], [1, 1]]
+Packet no. 17 Version 1 Type 4 Value 246310804
+ID Chain [[1, 51], [1, 0], [1, 0]]
+packet string 1110010000000001011011 gives size 91
+ID Chain [[1, 50], [0, 91]]
+Packet no. 19 Version 6 Type 5
+ID Chain [[1, 50], [0, 73], [1, 2]]
+Packet no. 20 Version 4 Type 4 Value 4401420
+ID Chain [[1, 50], [0, 37], [1, 1]]
+Packet no. 21 Version 4 Type 4 Value 55853
+ID Chain [[1, 50], [0, 11], [1, 0]]
+Packet no. 22 Version 1 Type 4 Value 6
+ID Chain [[1, 50], [0, 0]]
+Packet no. 23 Version 4 Type 4 Value 3759
+ID Chain [[1, 49]]
+Packet no. 24 Version 4 Type 3
+ID Chain [[1, 48], [1, 1]]
+Packet no. 25 Version 2 Type 3
+ID Chain [[1, 48], [1, 0], [1, 1]]
+Packet no. 26 Version 0 Type 0
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 1]]
+Packet no. 27 Version 0 Type 2
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 1]]
+packet string 0010110000000101000110 gives size 326
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 326]]
+Packet no. 29 Version 1 Type 2
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 308], [1, 1]]
+packet string 1110110000000100011110 gives size 286
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 286], [1, 0], [0, 286]]
+Packet no. 31 Version 2 Type 3
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 268], [1, 0], [0, 268], [1, 1]]
+packet string 1010110000000011110110 gives size 246
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 246], [1, 0], [0, 246], [1, 0], [0, 246]]
+packet string 1100010000000011100000 gives size 224
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 224], [1, 0], [0, 224], [1, 0], [0, 224], [0, 224]]
+Packet no. 34 Version 0 Type 3
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 206], [1, 0], [0, 206], [1, 0], [0, 206], [0, 206], [1, 1]]
+packet string 1000000000000010111000 gives size 184
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 184], [1, 0], [0, 184], [1, 0], [0, 184], [0, 184], [1, 0], [0, 184]]
+packet string 0100010000000010100010 gives size 162
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 162], [1, 0], [0, 162], [1, 0], [0, 162], [0, 162], [1, 0], [0, 162], [0, 162]]
+Packet no. 37 Version 2 Type 0
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 144], [1, 0], [0, 144], [1, 0], [0, 144], [0, 144], [1, 0], [0, 144], [0, 144], [1, 1]]
+packet string 1100100000000001111010 gives size 122
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 122], [1, 0], [0, 122], [1, 0], [0, 122], [0, 122], [1, 0], [0, 122], [0, 122], [1, 0], [0, 122]]
+Packet no. 39 Version 0 Type 0
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 104], [1, 0], [0, 104], [1, 0], [0, 104], [0, 104], [1, 0], [0, 104], [0, 104], [1, 0], [0, 104], [1, 1]]
+packet string 1000100000000001010010 gives size 82
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 82], [1, 0], [0, 82], [1, 0], [0, 82], [0, 82], [1, 0], [0, 82], [0, 82], [1, 0], [0, 82], [1, 0], [0, 82]]
+packet string 1000010000000000111100 gives size 60
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 60], [1, 0], [0, 60], [1, 0], [0, 60], [0, 60], [1, 0], [0, 60], [0, 60], [1, 0], [0, 60], [1, 0], [0, 60], [0, 60]]
+packet string 0100000000000000100110 gives size 38
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 38], [1, 0], [0, 38], [1, 0], [0, 38], [0, 38], [1, 0], [0, 38], [0, 38], [1, 0], [0, 38], [1, 0], [0, 38], [0, 38], [0, 38]]
+packet string 0000100000000000010000 gives size 16
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 16], [1, 0], [0, 16], [1, 0], [0, 16], [0, 16], [1, 0], [0, 16], [0, 16], [1, 0], [0, 16], [1, 0], [0, 16], [0, 16], [0, 16], [0, 16]]
+Packet no. 44 Version 0 Type 4 Value 210
+ID Chain [[1, 48], [1, 0], [1, 0], [1, 0], [1, 0], [0, 0], [1, 0], [0, 0], [1, 0], [0, 0], [0, 0], [1, 0], [0, 0], [0, 0], [1, 0], [0, 0], [1, 0], [0, 0], [0, 0], [0, 0], [0, 0]]
+Packet no. 45 Version 4 Type 3
+ID Chain [[1, 47], [1, 5]]
+Packet no. 46 Version 5 Type 4 Value 221698353
+ID Chain [[1, 47], [1, 4]]
+Packet no. 47 Version 0 Type 4 Value 12235055
+ID Chain [[1, 47], [1, 3]]
+Packet no. 48 Version 7 Type 4 Value 5985701
+ID Chain [[1, 47], [1, 2]]
+Packet no. 49 Version 5 Type 4 Value 993960
+ID Chain [[1, 47], [1, 1]]
+Packet no. 50 Version 0 Type 4 Value 562644
+ID Chain [[1, 47], [1, 0]]
+packet string 1010100000000001010011 gives size 83
+ID Chain [[1, 46], [0, 83]]
+Packet no. 52 Version 2 Type 4 Value 2527
+ID Chain [[1, 46], [0, 62]]
+Packet no. 53 Version 0 Type 4 Value 53
+ID Chain [[1, 46], [0, 46]]
+Packet no. 54 Version 2 Type 4 Value 3749816546
+ID Chain [[1, 46], [0, 0]]
+Packet no. 55 Version 6 Type 1
+ID Chain [[1, 45], [1, 5]]
+Packet no. 56 Version 0 Type 4 Value 33
+ID Chain [[1, 45], [1, 4]]
+Packet no. 57 Version 2 Type 4 Value 118
+ID Chain [[1, 45], [1, 3]]
+Packet no. 58 Version 7 Type 4 Value 5
+ID Chain [[1, 45], [1, 2]]
+Packet no. 59 Version 1 Type 4 Value 200
+ID Chain [[1, 45], [1, 1]]
+Packet no. 60 Version 1 Type 4 Value 111
+ID Chain [[1, 45], [1, 0]]
+Packet no. 61 Version 5 Type 0
+ID Chain [[1, 44], [1, 3]]
+Packet no. 62 Version 6 Type 4 Value 15
+ID Chain [[1, 44], [1, 2]]
+Packet no. 63 Version 4 Type 4 Value 1
+ID Chain [[1, 44], [1, 1]]
+Packet no. 64 Version 6 Type 4 Value 1534196055
+ID Chain [[1, 44], [1, 0]]
+Packet no. 65 Version 4 Type 1
+ID Chain [[1, 43], [1, 2]]
+Packet no. 66 Version 7 Type 7
+ID Chain [[1, 43], [1, 1], [1, 2]]
+Packet no. 67 Version 5 Type 4 Value 121
+ID Chain [[1, 43], [1, 1], [1, 1]]
+Packet no. 68 Version 0 Type 4 Value 3640
+ID Chain [[1, 43], [1, 1], [1, 0]]
+Packet no. 69 Version 7 Type 4 Value 14342924
+ID Chain [[1, 43], [1, 0]]
+packet string 1110010000000010101001 gives size 169
+ID Chain [[1, 42], [0, 169]]
+Packet no. 71 Version 5 Type 4 Value 57619135
+ID Chain [[1, 42], [0, 128]]
+packet string 1001110000000001101010 gives size 106
+ID Chain [[1, 42], [0, 106], [0, 106]]
+Packet no. 73 Version 5 Type 0
+ID Chain [[1, 42], [0, 88], [0, 88], [1, 3]]
+Packet no. 74 Version 0 Type 4 Value 3
+ID Chain [[1, 42], [0, 77], [0, 77], [1, 2]]
+Packet no. 75 Version 2 Type 4 Value 5
+ID Chain [[1, 42], [0, 66], [0, 66], [1, 1]]
+Packet no. 76 Version 0 Type 4 Value 4
+ID Chain [[1, 42], [0, 55], [0, 55], [1, 0]]
+packet string 1100000000000000100001 gives size 33
+ID Chain [[1, 42], [0, 33], [0, 33], [0, 33]]
+Packet no. 78 Version 5 Type 4 Value 7
+ID Chain [[1, 42], [0, 22], [0, 22], [0, 22]]
+Packet no. 79 Version 1 Type 4 Value 11
+ID Chain [[1, 42], [0, 11], [0, 11], [0, 11]]
+Packet no. 80 Version 4 Type 4 Value 3
+ID Chain [[1, 42], [0, 0], [0, 0], [0, 0]]
+Packet no. 81 Version 1 Type 3
+ID Chain [[1, 41], [1, 1]]
+Packet no. 82 Version 1 Type 4 Value 16652
+ID Chain [[1, 41], [1, 0]]
+Packet no. 83 Version 3 Type 1
+ID Chain [[1, 40], [1, 4]]
+Packet no. 84 Version 3 Type 4 Value 202
+ID Chain [[1, 40], [1, 3]]
+Packet no. 85 Version 5 Type 4 Value 216
+ID Chain [[1, 40], [1, 2]]
+Packet no. 86 Version 6 Type 4 Value 247
+ID Chain [[1, 40], [1, 1]]
+Packet no. 87 Version 3 Type 4 Value 228
+ID Chain [[1, 40], [1, 0]]
+packet string 1010010000000001010110 gives size 86
+ID Chain [[1, 39], [0, 86]]
+Packet no. 89 Version 4 Type 4 Value 51
+ID Chain [[1, 39], [0, 70]]
+Packet no. 90 Version 4 Type 6
+ID Chain [[1, 39], [0, 52], [1, 2]]
+Packet no. 91 Version 4 Type 4 Value 5309559
+ID Chain [[1, 39], [0, 16], [1, 1]]
+Packet no. 92 Version 2 Type 4 Value 242
+ID Chain [[1, 39], [0, 0], [1, 0]]
+Packet no. 93 Version 5 Type 4 Value 5058445
+ID Chain [[1, 38]]
+Packet no. 94 Version 7 Type 1
+ID Chain [[1, 37], [1, 2]]
+Packet no. 95 Version 1 Type 4 Value 111
+ID Chain [[1, 37], [1, 1]]
+Packet no. 96 Version 2 Type 4 Value 160
+ID Chain [[1, 37], [1, 0]]
+Packet no. 97 Version 6 Type 1
+ID Chain [[1, 36], [1, 2]]
+Packet no. 98 Version 6 Type 4 Value 69
+ID Chain [[1, 36], [1, 1]]
+packet string 0011010000000000110100 gives size 52
+ID Chain [[1, 36], [1, 0], [0, 52]]
+Packet no. 100 Version 4 Type 4 Value 47728
+ID Chain [[1, 36], [1, 0], [0, 26]]
+Packet no. 101 Version 0 Type 4 Value 47728
+ID Chain [[1, 36], [1, 0], [0, 0]]
+packet string 1000010000000001010001 gives size 81
+ID Chain [[1, 35], [0, 81]]
+Packet no. 103 Version 6 Type 4 Value 46
+ID Chain [[1, 35], [0, 65]]
+Packet no. 104 Version 5 Type 5
+ID Chain [[1, 35], [0, 47], [1, 2]]
+Packet no. 105 Version 0 Type 4 Value 9
+ID Chain [[1, 35], [0, 36], [1, 1]]
+Packet no. 106 Version 3 Type 4 Value 5788547
+ID Chain [[1, 35], [0, 0], [1, 0]]
+Packet no. 107 Version 3 Type 1
+ID Chain [[1, 34], [1, 2]]
+packet string 0111100000000001010111 gives size 87
+ID Chain [[1, 34], [1, 1], [0, 87]]
+Packet no. 109 Version 1 Type 4 Value 13750614
+ID Chain [[1, 34], [1, 1], [0, 51]]
+Packet no. 110 Version 7 Type 4 Value 63219915833
+ID Chain [[1, 34], [1, 1], [0, 0]]
+Packet no. 111 Version 3 Type 4 Value 1682243705
+ID Chain [[1, 34], [1, 0]]
+packet string 0100010000000001001100 gives size 76
+ID Chain [[1, 33], [0, 76]]
+Packet no. 113 Version 0 Type 4 Value 25033
+ID Chain [[1, 33], [0, 50]]
+Packet no. 114 Version 3 Type 5
+ID Chain [[1, 33], [0, 32], [1, 2]]
+Packet no. 115 Version 7 Type 4 Value 147
+ID Chain [[1, 33], [0, 16], [1, 1]]
+Packet no. 116 Version 0 Type 4 Value 147
+ID Chain [[1, 33], [0, 0], [1, 0]]
+Packet no. 117 Version 4 Type 4 Value 46957
+ID Chain [[1, 32]]
+packet string 1100010000000000010000 gives size 16
+ID Chain [[1, 31], [0, 16]]
+Packet no. 119 Version 2 Type 4 Value 163
+ID Chain [[1, 31], [0, 0]]
+Packet no. 120 Version 1 Type 4 Value 15872
+ID Chain [[1, 30]]
+Packet no. 121 Version 6 Type 1
+ID Chain [[1, 29], [1, 2]]
+packet string 1011100000000001101010 gives size 106
+ID Chain [[1, 29], [1, 1], [0, 106]]
+packet string 1000000000000000100001 gives size 33
+ID Chain [[1, 29], [1, 1], [0, 84], [0, 33]]
+Packet no. 124 Version 6 Type 4 Value 3
+ID Chain [[1, 29], [1, 1], [0, 73], [0, 22]]
+Packet no. 125 Version 4 Type 4 Value 12
+ID Chain [[1, 29], [1, 1], [0, 62], [0, 11]]
+Packet no. 126 Version 3 Type 4 Value 5
+ID Chain [[1, 29], [1, 1], [0, 51], [0, 0]]
+Packet no. 127 Version 7 Type 0
+ID Chain [[1, 29], [1, 1], [0, 33], [1, 3]]
+Packet no. 128 Version 5 Type 4 Value 6
+ID Chain [[1, 29], [1, 1], [0, 22], [1, 2]]
+Packet no. 129 Version 0 Type 4 Value 12
+ID Chain [[1, 29], [1, 1], [0, 11], [1, 1]]
+Packet no. 130 Version 6 Type 4 Value 6
+ID Chain [[1, 29], [1, 1], [0, 0], [1, 0]]
+Packet no. 131 Version 4 Type 4 Value 220
+ID Chain [[1, 29], [1, 0]]
+Packet no. 132 Version 3 Type 1
+ID Chain [[1, 28], [1, 2]]
+Packet no. 133 Version 7 Type 4 Value 176
+ID Chain [[1, 28], [1, 1]]
+Packet no. 134 Version 7 Type 6
+ID Chain [[1, 28], [1, 0], [1, 2]]
+Packet no. 135 Version 2 Type 4 Value 72409
+ID Chain [[1, 28], [1, 0], [1, 1]]
+Packet no. 136 Version 3 Type 4 Value 26342
+ID Chain [[1, 28], [1, 0], [1, 0]]
+Packet no. 137 Version 1 Type 0
+ID Chain [[1, 27], [1, 4]]
+Packet no. 138 Version 2 Type 4 Value 848
+ID Chain [[1, 27], [1, 3]]
+Packet no. 139 Version 4 Type 4 Value 856
+ID Chain [[1, 27], [1, 2]]
+Packet no. 140 Version 5 Type 4 Value 428489
+ID Chain [[1, 27], [1, 1]]
+Packet no. 141 Version 3 Type 4 Value 1008
+ID Chain [[1, 27], [1, 0]]
+Packet no. 142 Version 6 Type 4 Value 3894
+ID Chain [[1, 26]]
+Packet no. 143 Version 4 Type 4 Value 12
+ID Chain [[1, 25]]
+Packet no. 144 Version 4 Type 2
+ID Chain [[1, 24], [1, 4]]
+Packet no. 145 Version 0 Type 4 Value 7722
+ID Chain [[1, 24], [1, 3]]
+Packet no. 146 Version 7 Type 4 Value 787
+ID Chain [[1, 24], [1, 2]]
+Packet no. 147 Version 3 Type 4 Value 14984475
+ID Chain [[1, 24], [1, 1]]
+Packet no. 148 Version 4 Type 4 Value 447786
+ID Chain [[1, 24], [1, 0]]
+packet string 1110010000000001010101 gives size 85
+ID Chain [[1, 23], [0, 85]]
+packet string 0101110000000000100000 gives size 32
+ID Chain [[1, 23], [0, 63], [0, 32]]
+Packet no. 151 Version 7 Type 4 Value 79
+ID Chain [[1, 23], [0, 47], [0, 16]]
+Packet no. 152 Version 6 Type 4 Value 79
+ID Chain [[1, 23], [0, 31], [0, 0]]
+Packet no. 153 Version 0 Type 4 Value 1035635
+ID Chain [[1, 23], [0, 0]]
+packet string 0110010000000010100001 gives size 161
+ID Chain [[1, 22], [0, 161]]
+Packet no. 155 Version 5 Type 0
+ID Chain [[1, 22], [0, 143], [1, 3]]
+Packet no. 156 Version 7 Type 4 Value 6
+ID Chain [[1, 22], [0, 132], [1, 2]]
+Packet no. 157 Version 5 Type 4 Value 9
+ID Chain [[1, 22], [0, 121], [1, 1]]
+Packet no. 158 Version 6 Type 4 Value 7
+ID Chain [[1, 22], [0, 110], [1, 0]]
+packet string 1110000000000000100001 gives size 33
+ID Chain [[1, 22], [0, 88], [0, 33]]
+Packet no. 160 Version 6 Type 4 Value 5
+ID Chain [[1, 22], [0, 77], [0, 22]]
+Packet no. 161 Version 4 Type 4 Value 12
+ID Chain [[1, 22], [0, 66], [0, 11]]
+Packet no. 162 Version 2 Type 4 Value 8
+ID Chain [[1, 22], [0, 55], [0, 0]]
+packet string 1000000000000000100001 gives size 33
+ID Chain [[1, 22], [0, 33], [0, 33]]
+Packet no. 164 Version 1 Type 4 Value 7
+ID Chain [[1, 22], [0, 22], [0, 22]]
+Packet no. 165 Version 7 Type 4 Value 9
+ID Chain [[1, 22], [0, 11], [0, 11]]
+Packet no. 166 Version 3 Type 4 Value 9
+ID Chain [[1, 22], [0, 0], [0, 0]]
+packet string 1000010000000001100101 gives size 101
+ID Chain [[1, 21], [0, 101]]
+Packet no. 168 Version 1 Type 4 Value 1610
+ID Chain [[1, 21], [0, 80]]
+Packet no. 169 Version 7 Type 5
+ID Chain [[1, 21], [0, 62], [1, 2]]
+Packet no. 170 Version 1 Type 4 Value 273381
+ID Chain [[1, 21], [0, 31], [1, 1]]
+Packet no. 171 Version 7 Type 4 Value 80749
+ID Chain [[1, 21], [0, 0], [1, 0]]
+packet string 1110010000000001000111 gives size 71
+ID Chain [[1, 20], [0, 71]]
+Packet no. 173 Version 7 Type 4 Value 629
+ID Chain [[1, 20], [0, 50]]
+Packet no. 174 Version 6 Type 7
+ID Chain [[1, 20], [0, 32], [1, 2]]
+Packet no. 175 Version 2 Type 4 Value 172
+ID Chain [[1, 20], [0, 16], [1, 1]]
+Packet no. 176 Version 7 Type 4 Value 139
+ID Chain [[1, 20], [0, 0], [1, 0]]
+Packet no. 177 Version 1 Type 1
+ID Chain [[1, 19], [1, 2]]
+packet string 0111010000000000111110 gives size 62
+ID Chain [[1, 19], [1, 1], [0, 62]]
+Packet no. 179 Version 1 Type 4 Value 10
+ID Chain [[1, 19], [1, 1], [0, 51]]
+Packet no. 180 Version 0 Type 4 Value 6242768568
+ID Chain [[1, 19], [1, 1], [0, 0]]
+Packet no. 181 Version 5 Type 4 Value 189
+ID Chain [[1, 19], [1, 0]]
+packet string 0110100000000001000011 gives size 67
+ID Chain [[1, 18], [0, 67]]
+Packet no. 183 Version 7 Type 4 Value 1162
+ID Chain [[1, 18], [0, 46]]
+Packet no. 184 Version 5 Type 4 Value 2395511720
+ID Chain [[1, 18], [0, 0]]
+Packet no. 185 Version 6 Type 1
+ID Chain [[1, 17], [1, 3]]
+Packet no. 186 Version 4 Type 4 Value 235
+ID Chain [[1, 17], [1, 2]]
+Packet no. 187 Version 7 Type 4 Value 179
+ID Chain [[1, 17], [1, 1]]
+Packet no. 188 Version 1 Type 4 Value 131
+ID Chain [[1, 17], [1, 0]]
+Packet no. 189 Version 4 Type 3
+ID Chain [[1, 16], [1, 4]]
+Packet no. 190 Version 3 Type 4 Value 494786039859
+ID Chain [[1, 16], [1, 3]]
+Packet no. 191 Version 6 Type 4 Value 151573
+ID Chain [[1, 16], [1, 2]]
+Packet no. 192 Version 4 Type 4 Value 32919
+ID Chain [[1, 16], [1, 1]]
+Packet no. 193 Version 2 Type 4 Value 7
+ID Chain [[1, 16], [1, 0]]
+Packet no. 194 Version 0 Type 2
+ID Chain [[1, 15], [1, 1]]
+Packet no. 195 Version 6 Type 4 Value 24812
+ID Chain [[1, 15], [1, 0]]
+Packet no. 196 Version 3 Type 1
+ID Chain [[1, 14], [1, 2]]
+Packet no. 197 Version 6 Type 5
+ID Chain [[1, 14], [1, 1], [1, 2]]
+packet string 0010000000000000100001 gives size 33
+ID Chain [[1, 14], [1, 1], [1, 1], [0, 33]]
+Packet no. 199 Version 4 Type 4 Value 3
+ID Chain [[1, 14], [1, 1], [1, 1], [0, 22]]
+Packet no. 200 Version 0 Type 4 Value 3
+ID Chain [[1, 14], [1, 1], [1, 1], [0, 11]]
+Packet no. 201 Version 4 Type 4 Value 15
+ID Chain [[1, 14], [1, 1], [1, 1], [0, 0]]
+Packet no. 202 Version 1 Type 0
+ID Chain [[1, 14], [1, 1], [1, 0], [1, 3]]
+Packet no. 203 Version 0 Type 4 Value 11
+ID Chain [[1, 14], [1, 1], [1, 0], [1, 2]]
+Packet no. 204 Version 4 Type 4 Value 6
+ID Chain [[1, 14], [1, 1], [1, 0], [1, 1]]
+Packet no. 205 Version 5 Type 4 Value 9
+ID Chain [[1, 14], [1, 1], [1, 0], [1, 0]]
+Packet no. 206 Version 2 Type 4 Value 1672
+ID Chain [[1, 14], [1, 0]]
+Packet no. 207 Version 5 Type 0
+ID Chain [[1, 13], [1, 3]]
+Packet no. 208 Version 5 Type 1
+ID Chain [[1, 13], [1, 2], [1, 3]]
+Packet no. 209 Version 0 Type 4 Value 12
+ID Chain [[1, 13], [1, 2], [1, 2]]
+Packet no. 210 Version 7 Type 4 Value 4
+ID Chain [[1, 13], [1, 2], [1, 1]]
+Packet no. 211 Version 4 Type 4 Value 13
+ID Chain [[1, 13], [1, 2], [1, 0]]
+packet string 0000010000000000100001 gives size 33
+ID Chain [[1, 13], [1, 1], [0, 33]]
+Packet no. 213 Version 7 Type 4 Value 14
+ID Chain [[1, 13], [1, 1], [0, 22]]
+Packet no. 214 Version 3 Type 4 Value 4
+ID Chain [[1, 13], [1, 1], [0, 11]]
+Packet no. 215 Version 2 Type 4 Value 13
+ID Chain [[1, 13], [1, 1], [0, 0]]
+Packet no. 216 Version 6 Type 1
+ID Chain [[1, 13], [1, 0], [1, 3]]
+Packet no. 217 Version 3 Type 4 Value 15
+ID Chain [[1, 13], [1, 0], [1, 2]]
+Packet no. 218 Version 7 Type 4 Value 10
+ID Chain [[1, 13], [1, 0], [1, 1]]
+Packet no. 219 Version 7 Type 4 Value 14
+ID Chain [[1, 13], [1, 0], [1, 0]]
+Packet no. 220 Version 7 Type 1
+ID Chain [[1, 12], [1, 2]]
+Packet no. 221 Version 4 Type 4 Value 1714
+ID Chain [[1, 12], [1, 1]]
+packet string 0101100000000001001000 gives size 72
+ID Chain [[1, 12], [1, 0], [0, 72]]
+Packet no. 223 Version 4 Type 4 Value 12776488
+ID Chain [[1, 12], [1, 0], [0, 36]]
+Packet no. 224 Version 4 Type 4 Value 12776488
+ID Chain [[1, 12], [1, 0], [0, 0]]
+Packet no. 225 Version 5 Type 4 Value 1924485091
+ID Chain [[1, 11]]
+Packet no. 226 Version 5 Type 0
+ID Chain [[1, 10], [1, 1]]
+Packet no. 227 Version 2 Type 4 Value 162
+ID Chain [[1, 10], [1, 0]]
+Packet no. 228 Version 6 Type 0
+ID Chain [[1, 9], [1, 5]]
+Packet no. 229 Version 0 Type 4 Value 183
+ID Chain [[1, 9], [1, 4]]
+Packet no. 230 Version 2 Type 4 Value 184
+ID Chain [[1, 9], [1, 3]]
+Packet no. 231 Version 3 Type 4 Value 470674
+ID Chain [[1, 9], [1, 2]]
+Packet no. 232 Version 0 Type 4 Value 3
+ID Chain [[1, 9], [1, 1]]
+Packet no. 233 Version 4 Type 4 Value 11661682
+ID Chain [[1, 9], [1, 0]]
+Packet no. 234 Version 0 Type 4 Value 3126
+ID Chain [[1, 8]]
+Packet no. 235 Version 0 Type 1
+ID Chain [[1, 7], [1, 2]]
+Packet no. 236 Version 1 Type 6
+ID Chain [[1, 7], [1, 1], [1, 2]]
+Packet no. 237 Version 4 Type 4 Value 3941
+ID Chain [[1, 7], [1, 1], [1, 1]]
+Packet no. 238 Version 6 Type 4 Value 19411949671
+ID Chain [[1, 7], [1, 1], [1, 0]]
+Packet no. 239 Version 3 Type 4 Value 59
+ID Chain [[1, 7], [1, 0]]
+Packet no. 240 Version 4 Type 0
+ID Chain [[1, 6], [1, 2]]
+Packet no. 241 Version 4 Type 4 Value 3593230329
+ID Chain [[1, 6], [1, 1]]
+Packet no. 242 Version 0 Type 4 Value 8
+ID Chain [[1, 6], [1, 0]]
+Packet no. 243 Version 2 Type 4 Value 5
+ID Chain [[1, 5]]
+packet string 1100110000000000101011 gives size 43
+ID Chain [[1, 4], [0, 43]]
+Packet no. 245 Version 4 Type 4 Value 42
+ID Chain [[1, 4], [0, 27]]
+Packet no. 246 Version 7 Type 4 Value 36
+ID Chain [[1, 4], [0, 11]]
+Packet no. 247 Version 1 Type 4 Value 2
+ID Chain [[1, 4], [0, 0]]
+Packet no. 248 Version 6 Type 4 Value 508665266753
+ID Chain [[1, 3]]
+Packet no. 249 Version 1 Type 3
+ID Chain [[1, 2], [1, 2]]
+Packet no. 250 Version 5 Type 4 Value 11
+ID Chain [[1, 2], [1, 1]]
+Packet no. 251 Version 6 Type 4 Value 14
+ID Chain [[1, 2], [1, 0]]
+packet string 0010010000000010001100 gives size 140
+ID Chain [[1, 1], [0, 140]]
+Packet no. 253 Version 1 Type 5
+ID Chain [[1, 1], [0, 122], [1, 2]]
+packet string 0100000000000000100001 gives size 33
+ID Chain [[1, 1], [0, 100], [1, 1], [0, 33]]
+Packet no. 255 Version 4 Type 4 Value 10
+ID Chain [[1, 1], [0, 89], [1, 1], [0, 22]]
+Packet no. 256 Version 6 Type 4 Value 4
+ID Chain [[1, 1], [0, 78], [1, 1], [0, 11]]
+Packet no. 257 Version 4 Type 4 Value 9
+ID Chain [[1, 1], [0, 67], [1, 1], [0, 0]]
+Packet no. 258 Version 5 Type 0
+ID Chain [[1, 1], [0, 49], [1, 0], [1, 3]]
+Packet no. 259 Version 2 Type 4 Value 2
+ID Chain [[1, 1], [0, 38], [1, 0], [1, 2]]
+Packet no. 260 Version 3 Type 4 Value 10
+ID Chain [[1, 1], [0, 27], [1, 0], [1, 1]]
+Packet no. 261 Version 3 Type 4 Value 13
+ID Chain [[1, 1], [0, 16], [1, 0], [1, 0]]
+Packet no. 262 Version 2 Type 4 Value 235
+ID Chain [[1, 1], [0, 0]]
+packet string 0110100000000001101110 gives size 110
+ID Chain [[1, 0], [0, 110]]
+Packet no. 264 Version 4 Type 4 Value 466695
+ID Chain [[1, 0], [0, 79]]
+Packet no. 265 Version 5 Type 4 Value 281
+ID Chain [[1, 0], [0, 58]]
+Packet no. 266 Version 6 Type 4 Value 622270
+ID Chain [[1, 0], [0, 27]]
+Packet no. 267 Version 4 Type 4 Value 4
+ID Chain [[1, 0], [0, 16]]
+Packet no. 268 Version 5 Type 4 Value 229
+Analyzing packet version: 7 type: 0
+Analyzing packet version: 0 type: 1
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 3 type: 6
+Analyzing packet version: 5 type: 0
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 3 type: 0
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 5 type: 1
+Analyzing packet version: 3 type: 4
+Analyzing packet version: 7 type: 6
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 1 type: 4
+Analyzing packet version: 7 type: 1
+Analyzing packet version: 6 type: 5
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 4 type: 4
+Comparison for packet version: 6 type: 5
+Analyzing packet version: 1 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 4 type: 3
+Analyzing packet version: 2 type: 3
+Analyzing packet version: 0 type: 0
+Analyzing packet version: 0 type: 2
+Analyzing packet version: 1 type: 3
+Analyzing packet version: 1 type: 2
+Analyzing packet version: 7 type: 3
+Analyzing packet version: 2 type: 3
+Analyzing packet version: 5 type: 3
+Analyzing packet version: 6 type: 1
+Analyzing packet version: 0 type: 3
+Analyzing packet version: 4 type: 0
+Analyzing packet version: 2 type: 1
+Analyzing packet version: 2 type: 0
+Analyzing packet version: 6 type: 2
+Analyzing packet version: 0 type: 0
+Analyzing packet version: 4 type: 2
+Analyzing packet version: 4 type: 1
+Analyzing packet version: 2 type: 0
+Analyzing packet version: 0 type: 2
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 4 type: 3
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 5 type: 2
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 6 type: 1
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 1 type: 4
+Analyzing packet version: 1 type: 4
+Analyzing packet version: 5 type: 0
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 4 type: 1
+Analyzing packet version: 7 type: 7
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 7 type: 1
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 4 type: 7
+Analyzing packet version: 5 type: 0
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 6 type: 0
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 1 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 1 type: 3
+Analyzing packet version: 1 type: 4
+Analyzing packet version: 3 type: 1
+Analyzing packet version: 3 type: 4
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 3 type: 4
+Analyzing packet version: 5 type: 1
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 4 type: 6
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 7 type: 1
+Analyzing packet version: 1 type: 4
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 6 type: 1
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 1 type: 5
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 0 type: 4
+Comparison for packet version: 1 type: 5
+Analyzing packet version: 4 type: 1
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 5 type: 5
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 3 type: 4
+Comparison for packet version: 5 type: 5
+Analyzing packet version: 3 type: 1
+Analyzing packet version: 3 type: 6
+Analyzing packet version: 1 type: 4
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 3 type: 4
+Analyzing packet version: 2 type: 1
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 3 type: 5
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 0 type: 4
+Comparison for packet version: 3 type: 5
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 6 type: 1
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 1 type: 4
+Analyzing packet version: 6 type: 1
+Analyzing packet version: 5 type: 6
+Analyzing packet version: 4 type: 0
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 3 type: 4
+Analyzing packet version: 7 type: 0
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 3 type: 1
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 7 type: 6
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 3 type: 4
+Analyzing packet version: 1 type: 0
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 3 type: 4
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 4 type: 2
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 3 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 7 type: 1
+Analyzing packet version: 2 type: 7
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 3 type: 1
+Analyzing packet version: 5 type: 0
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 7 type: 0
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 4 type: 0
+Analyzing packet version: 1 type: 4
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 3 type: 4
+Analyzing packet version: 4 type: 1
+Analyzing packet version: 1 type: 4
+Analyzing packet version: 7 type: 5
+Analyzing packet version: 1 type: 4
+Analyzing packet version: 7 type: 4
+Comparison for packet version: 7 type: 5
+Analyzing packet version: 7 type: 1
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 6 type: 7
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 1 type: 1
+Analyzing packet version: 3 type: 5
+Analyzing packet version: 1 type: 4
+Analyzing packet version: 0 type: 4
+Comparison for packet version: 3 type: 5
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 3 type: 2
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 6 type: 1
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 1 type: 4
+Analyzing packet version: 4 type: 3
+Analyzing packet version: 3 type: 4
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 0 type: 2
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 3 type: 1
+Analyzing packet version: 6 type: 5
+Analyzing packet version: 1 type: 0
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 1 type: 0
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 5 type: 4
+Comparison for packet version: 6 type: 5
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 5 type: 0
+Analyzing packet version: 5 type: 1
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 0 type: 1
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 3 type: 4
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 6 type: 1
+Analyzing packet version: 3 type: 4
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 7 type: 1
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 2 type: 6
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 5 type: 0
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 6 type: 0
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 3 type: 4
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 0 type: 1
+Analyzing packet version: 1 type: 6
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 3 type: 4
+Analyzing packet version: 4 type: 0
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 0 type: 4
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 6 type: 3
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 7 type: 4
+Analyzing packet version: 1 type: 4
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 1 type: 3
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 1 type: 1
+Analyzing packet version: 1 type: 5
+Analyzing packet version: 2 type: 0
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 5 type: 0
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 3 type: 4
+Analyzing packet version: 3 type: 4
+Comparison for packet version: 1 type: 5
+Analyzing packet version: 2 type: 4
+Analyzing packet version: 3 type: 2
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 5 type: 4
+Analyzing packet version: 6 type: 4
+Analyzing packet version: 4 type: 4
+Analyzing packet version: 5 type: 4
+examining packet w version 1, type 5
+subpacket 1 has type 0
+subpacket 2 has type 0
+Version Sum is 984
+Final Value is 1015320896946
