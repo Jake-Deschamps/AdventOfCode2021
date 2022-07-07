@@ -1,0 +1,15 @@
+apply algorithm on all 14-digit numbers from 99999999999999 on down
+-very very long runtime
+
+determine equations moving forward
+-need to split every time eql lines occur
+-could try to see if possible each time?
+
+determine solutions moving backward
+-division instructions seem very tough. may create another parallel universe scenario
+- example: [a,0,0,2] after div w z means that w could have been 2a or 2a + 1
+- worse ex: [2, 0, 0, a] after div w x means w could have been 2a, 2a+1, ..., 3a-1
+
+determine solution by doing a partial derivative approach
+-try tweaking each digit to see if it moves zf closer to 0 or further, tweak other way. if local min with digit, move on to next digit.
+-issue is that this requires continuous functions(?) and mod and eql aren't those
